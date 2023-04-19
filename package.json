@@ -1,7 +1,7 @@
 {
-  "name": "myexpenses-ellebkey-app",
-  "version": "2.4.0",
-  "description": "A Boilerplate application for building REST APIs using node, express and sequelize with ES6 with code coverage",
+  "name": "calculator-backend-ts",
+  "version": "1.0.0",
+  "description": "Arithmetic Calculator REST API",
   "author": "Joel Barranco <hello@joelbarranco.io>",
   "engines": {
     "node": ">=12.22.12",

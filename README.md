@@ -1,5 +1,5 @@
 # TrueNorth | LoanPro - Code Challenge
-# Arithmetic Calculator REST AP
+# Arithmetic Calculator REST API
 
 This project implements a Web platform to provide a simple calculator functionality (addition, subtraction, multiplication, division, square root, and a random string generation) where each functionality will have a separate cost per request. Users will have a starting credit/balance. Each request will be deducted from the user’s balance. If the user’s balance isn’t enough to cover the request cost, the request shall be denied.
 
