@@ -41,5 +41,5 @@ jobs:
         port: ${{ secrets.PORT }}
         envs: GITHUB_USERNAME, GITHUB_TOKEN
         script: |
-          ~/myexpenses-backend
+          ~/calculator-backend
 
